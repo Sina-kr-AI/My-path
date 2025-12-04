@@ -43,15 +43,17 @@
 - Aurélien-Géron-Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-Tensorflow_-Concepts-Tools-and-Techniques-to-Build-Intelligent-Systems-O’Reilly-Media-2019
 
 - Machine Learning for Hackers_ Case Studies and Algorithms to Get You Started
+- Deep Learning with Python
 
 ### سایت ها و منابع مختلف که به تقویت شما کمک میکند:
 
 
--
--
--
--
--
+- https://keras.io
+- www.kaggle.com
+- www.w3schools.com
+- https://www.youtube.com/@AAmini
+- https://scholar.google.com
+- https://faradars.org
 
 
 
